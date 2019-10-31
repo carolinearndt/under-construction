@@ -26,8 +26,9 @@ body, html {
   /* Position text in the top-left corner */
   .topleft {
     position: absolute;
-    top: 0;
-    left: 16px;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
   
   /* Position text in the bottom-left corner */
